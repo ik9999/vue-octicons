@@ -2,10 +2,21 @@
   "name": "vue-octicons",
   "version": "0.1.0",
   "description": "A GitHub Octicons component for Vue.js",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "main": "build/vue-octicons.js",
+  "repository": "BaglerIT/vue-octicons",
+  "keywords": [
+    "GitHub",
+    "icons",
+    "svg",
+    "octicons",
+    "Vue.js"
+  ],
   "author": "Dave Bagler <dave@baglerit.com> (http://baglerit.com)",
-  "license": "MIT"
+  "license": "MIT",
+  "peerDependencies": {
+    "vue": "2.*"
+  },
+  "dependencies": {
+    "octicons": "^5.0.1"
+  }
 }
