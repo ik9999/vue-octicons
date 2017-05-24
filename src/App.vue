@@ -12,6 +12,9 @@
       <div class="col-md-6">
         <p>This is a test of an icon in a paragraph. <octicon :icon-name="iconList[6].name"></octicon> is an icon. Here is a sentence that spaces out the two icons in this paragraph. This sentence is followed by another icon <octicon :icon-name="iconList[34].name"></octicon>. Those are some great icons.</p>
         <p>This is a test of an icon in a paragraph. <span class="fa fa-caret-right"></span> is an icon. Here is a sentence that spaces out the two icons in this paragraph. This sentence is followed by another icon <span class="fa fa-credit-card"></span>. Those are some great icons.</p>
+        <p>The <a href="http://github.com">GitHub logo <octicon icon-name="logo-github"></octicon></a> is wider than other icons.</p>
+        <p class="lead">Bigger body text gets a bigger icon <octicon style="vertical-align: text-top;" class="text-danger" icon-name="flame"></octicon>!</p>
+        <p class="lead">Bigger body text gets a bigger icon <span class="fa fa-fire text-danger"></span>!</p>
       </div>
       <div class="col-md-3">
         <h1><octicon :icon-name="iconList[6].name"></octicon> Warning</h1>
@@ -42,9 +45,9 @@
         <h6><span class="fa fa-warning"></span> Warning</h6>
       </div>
       <div class="col-md-6">
-        <octicon></octicon>
       </div>
       <div class="col-md-6">
+        <p>Button with text, button without text, list item, anchor</p>
         <octicon></octicon>
       </div>
       <div class="col-md-6">
