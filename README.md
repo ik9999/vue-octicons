@@ -1,5 +1,7 @@
 # vue-octicons
 
+[![npm version](https://badge.fury.io/js/vue-octicons.svg)](https://badge.fury.io/js/vue-octicons)
+
 > A [GitHub Octicons](https://octicons.github.com/) component for
 [Vue.js](https://vuejs.org/).
 
