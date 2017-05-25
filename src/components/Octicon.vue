@@ -80,8 +80,8 @@
         fill: currentColor;
     }
 
-    .h1 > .octicon, .h2 > .octicon, .h3 > .octicon, .h4 > .octicon, .h5 > .octicon, .h6 > .octicon,
-    h1 > .octicon, h2 > .octicon, h3 > .octicon, h4 > .octicon, h5 > .octicon, h6 > .octicon {
+    .h1 .octicon, .h2 .octicon, .h3 .octicon, .h4 .octicon, .h5 .octicon, .h6 .octicon,
+    h1 .octicon, h2 .octicon, h3 .octicon, h4 .octicon, h5 .octicon, h6 .octicon {
         vertical-align: bottom;
     }
 
