@@ -47,14 +47,10 @@
       <div class="col-md-6">
       </div>
       <div class="col-md-6">
-        <p>Button with text, button without text, list item, anchor</p>
-        <octicon></octicon>
       </div>
       <div class="col-md-6">
-        <octicon></octicon>
       </div>
       <div class="col-md-6">
-        <octicon></octicon>
       </div>
     </section>
   </div>
