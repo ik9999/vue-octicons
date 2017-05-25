@@ -60,11 +60,14 @@ icon.
 ```
 
 ## Build Setup
+
 ``` bash# install dependenciesnpm install
 # serve with hot reload at localhost:8080npm run dev
 # build demo with minificationnpm run build
 # build demo and view the bundle analyzer reportnpm run build --report
 # run unit tests - currently just template sample tests.npm run unit
 # run e2e tests - currently just template sample tests.npm run e2e
-# run all tests - currently just template sample tests.npm test```
+# run all tests - currently just template sample tests.npm test
+```
+
 For detailed explanation on how things work, checkout the[guide](http://vuejs-templates.github.io/webpack/) and[docs for vue-loader](http://vuejs.github.io/vue-loader).
