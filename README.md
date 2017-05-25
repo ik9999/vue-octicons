@@ -70,4 +70,4 @@ icon.
 # run all tests - currently just template sample tests.npm test
 ```
 
-For detailed explanation on how things work, checkout the[guide](http://vuejs-templates.github.io/webpack/) and[docs for vue-loader](http://vuejs.github.io/vue-loader).
+For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
