@@ -1,6 +1,5 @@
 build
 demo
-src
 .babelrc
 .gitignore
 bower.json
