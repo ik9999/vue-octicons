@@ -27,7 +27,7 @@ Vue.component('octicon', require('vue-octicons/src/components/Octicon.vue'));
 
 ```
 
-### Using the component
+## Using the component
 
 The `<octicon>` component will output an `<svg>` tag. In order for an icon to appear
 you must include `icon-name`  attribute.  The icon name much match the
