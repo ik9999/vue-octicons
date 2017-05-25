@@ -1,6 +1,8 @@
 # vue-octicons
 
-[![npm version](https://badge.fury.io/js/vue-octicons.svg)](https://badge.fury.io/js/vue-octicons)
+<a href="https://www.npmjs.com/package/vue-octicons"><img src="https://img.shields.io/npm/dm/vue-octicons.svg" alt="Downloads"></a>
+<a href="https://www.npmjs.com/package/vue-octicons"><img src="https://img.shields.io/npm/v/vue-octicons.svg" alt="Version"></a>
+<a href="https://www.npmjs.com/package/vue-octicons"><img src="https://img.shields.io/npm/l/vue-octicons.svg" alt="License"></a>
 
 > A [GitHub Octicons](https://octicons.github.com/) component for
 [Vue.js](https://vuejs.org/).
