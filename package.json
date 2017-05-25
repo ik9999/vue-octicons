@@ -1,6 +1,6 @@
 {
   "name": "vue-octicons",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "A GitHub Octicons component for Vue.js",
   "author": "Dave Bagler <dave@baglerit.com>",
   "repository": "BaglerIT/vue-octicons",
