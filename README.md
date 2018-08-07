@@ -19,7 +19,7 @@ came with the template. Any suggestions and contributions are greatly appreciate
 ### NPM
 
 ``` bash
- npm install vue-octicon
+ npm install vue-octicons
 ```
 
 ## Loading the component
