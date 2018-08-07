@@ -14,6 +14,8 @@ the [webpack template for VueJS](https://github.com/vuejs-templates/webpack), an
 while there are e2e and unit tests, these are currently just the sample tests that
 came with the template. Any suggestions and contributions are greatly appreciated.
 
+**TRY [Justineo/vue-octicon](https://www.npmjs.com/package/vue-octicon) FIRST!**
+
 ## Installation
 
 ### NPM
