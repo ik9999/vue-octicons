@@ -1,5 +1,5 @@
 <template>
-    <svg :height="height" :class="cssClasses" :viewBox="viewBox" version="1.1" :width="width" v-html="iconPath">
+    <svg :height="height + 'px'" :class="cssClasses" :viewBox="viewBox" :width="width + 'px'" v-html="iconPath">
     </svg>
 </template>
 
